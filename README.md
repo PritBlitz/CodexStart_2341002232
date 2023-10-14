@@ -1,5 +1,7 @@
 # CodexStart_2341002232
-# Name : Pritish Biswas
+CSES Introductory Problems 
 
-# Reg. No. : 2341002232
-# UserName CSES : PritBlitz
+# About
+Name          : _**Pritish Biswas**_ 
+Reg no.       : **2341002232** 
+CSES Username : _**PritBlitz**_ 
