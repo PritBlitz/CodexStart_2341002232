@@ -2,6 +2,6 @@
 CSES Introductory Problems 
 
 # About
-Name          : _**Pritish Biswas**_ <br >
-Reg no.       : **2341002232** <br >
-CSES Username : _**PritBlitz**_  <br >
+Name          : <i><b>Pritish Biswas</b></i> <br>
+Reg no.       : <b>2341002232</b> <br>
+CSES Username : _**PritBlitz**_  <br>
