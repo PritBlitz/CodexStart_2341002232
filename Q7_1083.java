@@ -1,3 +1,9 @@
+/*
+   * NAME : PRITISH BISWAS 
+   * CSES - MISSING NUMBER 
+   * LINK : https://cses.fi/problemset/task/1083
+*/
+
 import java.util.Scanner;
 
 public class Q7_1083 {
