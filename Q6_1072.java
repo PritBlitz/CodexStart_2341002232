@@ -1,3 +1,9 @@
+/*
+   * NAME : PRITISH BISWAS 
+   * CSES - TWO KNIGHTS 
+   * LINK : https://cses.fi/problemset/task/1072
+*/
+
 import java.util.Scanner;
 public class Q6_1072 {
     public static void main(String[] args) {
