@@ -1,3 +1,9 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - INCREASING ARRAY 
+    * LINK : https://cses.fi/problemset/task/1094
+*/
+
 import java.util.Scanner;
 public class Q5_1094 {
     public static void main(String[] args) {
