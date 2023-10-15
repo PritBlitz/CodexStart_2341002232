@@ -1,3 +1,10 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - GRAY CODE 
+    * LINK : https://cses.fi/problemset/task/2205
+*/
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
