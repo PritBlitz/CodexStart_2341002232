@@ -1,3 +1,9 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - BIT STRINGS
+    * LINK : https://cses.fi/problemset/task/1617
+*/
+
 import java.util.Scanner;
 
 public class Q3_1617 {
