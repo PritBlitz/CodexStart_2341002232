@@ -1,3 +1,9 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - PERMUTATION 
+   * LINK : https://cses.fi/problemset/task/1070 
+*/
+
 import java.util.Scanner;
 
 public class Q8_1070 {
