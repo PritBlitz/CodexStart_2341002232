@@ -1,3 +1,9 @@
+/* 
+   * NAME : PRITISH BISWAS
+   * CSES - WEIRD ALGORITHMS 
+   * LINK : https://cses.fi/problemset/task/1068 
+*/
+
 import java.util.Scanner;
 
 public class Q1_1068 {
