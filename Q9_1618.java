@@ -1,3 +1,10 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - TRAILING ZEROS 
+    * LINK : https://cses.fi/problemset/task/1618
+*/
+
+
 import java.util.Scanner;
 public class Q9_1618 {
     public static void main(String[] args) {
