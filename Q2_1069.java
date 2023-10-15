@@ -1,3 +1,9 @@
+/*
+    * NAME : PRITISH BISWAS
+    * CSES - REPETIONS 
+    * LINK : https://cses.fi/problemset/task/1069
+*/
+
 import java.util.Scanner;
 public class Q2_1069 {
     public static void main(String[] args) {
