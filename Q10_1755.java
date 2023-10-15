@@ -1,3 +1,9 @@
+/*
+    * NAME : PRITISH BISWAS 
+    * CSES - PALINDROME REORDER
+    * LINK : https://cses.fi/problemset/task/1755
+*/
+
 import java.util.Scanner;
 
 public class Q10_1755 {
